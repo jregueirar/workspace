@@ -3,6 +3,7 @@ set shiftwidth=4
 set expandtab
 
 syntax on
+colorscheme evening
 set list listchars=tab:▷⋅,trail:⋅,nbsp:⋅
 set statusline=%F%m%r%h%w\ [TYPE=%Y\ %{&ff}]\
 \ [%l/%L\ (%p%%)
